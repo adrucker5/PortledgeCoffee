@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(255, 203, 249);
+    background-image: url(images/Blue_Bottle\,_Kyoto_Style_Ice_Coffee_\(5909775445\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+
+    width: 1024px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+
+    min-height: 120px;
+}
+
+.logoImage {
+    height: 120px;
+}
+
+nav {
+    background-color: rgba(255, 228, 196, 0.652);
+    min-height: 45px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: black;
+    font-family: sans-serif;
+}
+
+main {
+
+    min-height: 375px;
+    text-align: center;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+main h1 {
+    font-size: 85px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    text-shadow: 3px 3px 3px blueviolet;
+}
+
+
+main h2 {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px rgb(226, 43, 92);
+}
+
+main p {
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px rgb(255, 133, 182);
+}
+
+
+.map {
+
+    min-height: 120px;
+    text-align: center;
+
+}
+
+footer {
+    background-color: rgba(255, 157, 124, 0.417);
+    min-height: 60px;
+
+}
+
+footer p {
+    color: rgb(17, 0, 78);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 16px;
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 3px, 3px, 3px rgb(226, 43, 92);
+
+}
+
+
+h2 {
+
+    color: rgb(149, 255, 181);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-shadow: 3px, 3px, 3px rgb(255, 255, 255);
+}
+
+.Cup {
+    width: 230px;
+    /* padding-left: 700px;
+    padding-right: 700px;
+    padding-top: 22px;
+    padding-bottom: 22px; */
+    /* align-items: center; */
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.cupbox {
+
+
+    text-align: center;
+}
